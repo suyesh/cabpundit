@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tlc_licence_number: MyString
+  ssn: MyString
+  drivers_license_number: MyString
+  address: MyString
+  weekly_lease: 1
+
+two:
+  tlc_licence_number: MyString
+  ssn: MyString
+  drivers_license_number: MyString
+  address: MyString
+  weekly_lease: 1

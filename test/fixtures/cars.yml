@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  license_number: MyString
+  status: MyString
+  base_name: MyString
+  base_number: MyString
+  base_address: MyString
+  base_telephone_number: MyString
+  license_plate_number: MyString
+  permit_owner: MyString
+  hackup_date: 2015-10-30 13:32:46
+  vin_number: MyString
+  car_make_model: MyString
+  car_model_year: MyString
+  certification_date: 2015-10-30 13:32:46
+  milage: MyString
+
+two:
+  license_number: MyString
+  status: MyString
+  base_name: MyString
+  base_number: MyString
+  base_address: MyString
+  base_telephone_number: MyString
+  license_plate_number: MyString
+  permit_owner: MyString
+  hackup_date: 2015-10-30 13:32:46
+  vin_number: MyString
+  car_make_model: MyString
+  car_model_year: MyString
+  certification_date: 2015-10-30 13:32:46
+  milage: MyString
